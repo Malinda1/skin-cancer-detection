@@ -16,7 +16,7 @@ detecting several type of lesion on skin
 
 
 
-![Logo](/Volumes/KODAK/folder_02/Skin_cancer_Detection/images/ALL.jpeg)
+![Logo](images/ALL.jpeg)
 
 
 ## 🔴 1. **AKIEC**
@@ -25,7 +25,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Pre-cancer or early-stage skin cancer
 
-![Alt text](https://skincanceranalyzer.azurewebsites.net/types)
+
 
 ## ⚪ 2. **BCC**
 
@@ -33,7 +33,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Skin Cancer (Malignant)
 
-![Alt text](https://miiskin.com/skin-cancer/basal-cell-carcinoma/)
+
 
 ## 🟤 3. **BKL**
 
@@ -41,7 +41,6 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: **Benign (Non-cancerous)**
 
-![Alt text](https://www.researchgate.net/figure/Examples-of-suspicious-skin-lesions-The-fi-rst-three-lesions-in-the-top-panel-are-benign_fig1_223613090)
 
 ## 🟢 4. **DF**
 
@@ -49,7 +48,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Benign (Non-cancerous)
 
-![Alt text](https://www.pcds.org.uk/clinical-guidance/dermatofibroma-syn-histiocytoma)
+
 
 ## ⚫ 5. **MEL**
 
@@ -57,7 +56,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: **Dangerous Skin Cancer** (Malignant)
 
-![Alt text](https://www.directprimarycareok.com/primary-care-topics/melanoma)
+
 
 ## 🟠 6. **NV**
 
@@ -65,7 +64,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Benign
 
-![Alt text](https://www.researchgate.net/figure/Clinical-features-of-cutaneous-melanotic-nevi-head-and-neck-region-a-Congenital_fig1_330711987)
+
 
 ## 🔵 7. **VASC**
 
@@ -73,7 +72,6 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Mostly benign
 
-![Alt text](https://ensoulclinic.com/condition/vascular-lesions/)
 
 # Beginning the model development process
 

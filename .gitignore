@@ -1,0 +1,64 @@
+# Ignore model binaries and large files
+*.bin
+*.pt
+*.h5
+*.ckpt
+*.msgpack
+*.pkl
+*.npz
+*.npy
+*.tar.gz
+*.zip
+*.7z
+*.tar
+*.rar
+*.exe
+*.dmg
+*.iso
+*.so
+*.dll
+*.o
+*.a
+*.lib
+*.pb
+*.onnx
+*.tflite
+*.hdf5
+*.weights
+*.ckpt.*
+
+# Ignore image and dataset files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.webp
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.csv
+*.tsv
+*.parquet
+*.jsonl
+
+# Ignore data and model folders
+data/
+/model/
+/venv/
+__pycache__/
+*.log
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS resource forks
+._*
+.DS_Store

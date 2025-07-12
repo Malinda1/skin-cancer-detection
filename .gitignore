@@ -62,7 +62,10 @@
 /data/Raw Data/skin-cancer-mnist-ham10000/All_Images_skin-cancer-mnist-ham10000/
 
 
-/model/
+#/model/
+/model/fine tuned model/
+/model/pre-prcess model
+/model/Raw_model/beit_base_patch16_model
 /venv/
 __pycache__/
 *.log

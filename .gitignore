@@ -56,7 +56,12 @@
 !images/*.webp
 
 # Ignore data and model folders
-data/
+#data/
+/Volumes/KODAK/folder_02/Skin_cancer_Detection/data/pre-process data/Mapped_Images/
+/data/Raw Data/skin-cancer-mnist-ham10000/
+/data/Raw Data/skin-cancer-mnist-ham10000/All_Images_skin-cancer-mnist-ham10000/
+
+
 /model/
 /venv/
 __pycache__/

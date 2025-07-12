@@ -25,7 +25,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Pre-cancer or early-stage skin cancer
 
-
+![Logo](images/actinic%20keratoses%20and%20intraepithelial%20carcinoma.png)
 
 ## ⚪ 2. **BCC**
 
@@ -33,7 +33,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Skin Cancer (Malignant)
 
-
+![Logo](images/basal%20cell%20carcinoma.jpg)
 
 ## 🟤 3. **BKL**
 
@@ -41,6 +41,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: **Benign (Non-cancerous)**
 
+![Logo](images/benign%20keratosis-like%20lesions.webp)
 
 ## 🟢 4. **DF**
 
@@ -48,7 +49,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Benign (Non-cancerous)
 
-
+![Logo](images/dermatofibroma.jpeg)
 
 ## ⚫ 5. **MEL**
 
@@ -56,7 +57,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: **Dangerous Skin Cancer** (Malignant)
 
-
+![Logo](images/melanoma.png)
 
 ## 🟠 6. **NV**
 
@@ -64,7 +65,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Benign
 
-
+![Logo](images/melanotic-nevi.png)
 
 ## 🔵 7. **VASC**
 
@@ -72,6 +73,7 @@ detecting several type of lesion on skin
 
 ➡️ **Type**: Mostly benign
 
+![Logo](images/vascular%20lesions.jpeg)
 
 # Beginning the model development process
 

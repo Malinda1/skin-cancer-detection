@@ -68,3 +68,4 @@ __pycache__/
 # Ignore macOS resource forks
 ._*
 .DS_Store
+kaggle.json

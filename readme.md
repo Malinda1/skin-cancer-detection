@@ -16,7 +16,7 @@ detecting several type of lesion on skin
 
 
 
-![Alt text](https://www.researchgate.net/figure/Illustrating-examples-from-all-of-the-pigmented-skin-lesion-categories-in-the-HAM_fig3_335237588)
+![Logo](/Volumes/KODAK/folder_02/Skin_cancer_Detection/images/ALL.jpeg)
 
 
 ## 🔴 1. **AKIEC**

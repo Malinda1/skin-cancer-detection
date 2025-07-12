@@ -16,7 +16,7 @@ detecting several type of lesion on skin
 
 
 
-![Logo](images/all2.jpeg)
+![Logo](images/all2.png)
 
 
 ## 🔴 1. **AKIEC**

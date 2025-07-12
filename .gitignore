@@ -44,7 +44,7 @@
 *.wav
 *.flac
 *.ogg
-*.csv
+#*.csv
 *.tsv
 *.parquet
 *.jsonl

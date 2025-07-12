@@ -27,7 +27,7 @@
 *.weights
 *.ckpt.*
 
-# Ignore image and dataset files
+# Ignore image and dataset files (but allow images in images/ folder)
 *.jpg
 *.jpeg
 *.png
@@ -48,6 +48,12 @@
 *.tsv
 *.parquet
 *.jsonl
+
+# Allow images in the images/ folder for README
+!images/*.jpg
+!images/*.jpeg
+!images/*.png
+!images/*.webp
 
 # Ignore data and model folders
 data/
